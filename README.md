@@ -1,6 +1,12 @@
 ## Website Performance Optimization portfolio project
+## Part 1 Optimize Critical Rendering Path
+<li>Async javascript file</li>
+<li>Inline CSS </li>
+<li>compress images and resize the images</li>
+<li>Use media query on the print.css</li>
+<li>Move Google analysics script and Google font js to bottom of the body.</li>
 
-Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
+## Part 2 Frame Rate
 
 To get started, check out the repository and inspect the code.
 
