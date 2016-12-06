@@ -1,4 +1,6 @@
 ## Website Performance Optimization portfolio project
+[open](https://fieudi.github.io/website-optimization/) to check the website.
+
 ## Part 1 Optimize Critical Rendering Path
 <li>Async javascript file</li>
 <li>Inline CSS </li>
@@ -7,8 +9,12 @@
 <li>Move Google analysics script and Google font js to bottom of the body.</li>
 
 ## Part 2 Frame Rate
+<li>Move DOM manipulation out of Loop function</li>
+<li>Use DOM manipulation getElementById and get ElementbyClassName instead of querySelector</li>
+<li>Resize the number of pizza in screen.</li>
 
-To get started, check out the repository and inspect the code.
+## Part 3 Computational Efficiency
+<li>Simplify calculating, modify determineDx function into sizeSwitch function.</li> 
 
 ### Getting started
 
